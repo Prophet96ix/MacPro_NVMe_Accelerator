@@ -1,4 +1,4 @@
-# classic Mac Pro PCIe 2.0 Activator
+# classic Mac Pro NVMe Accelerator
 
 ![](https://github.com/Prophet96ix/cMacPro_pcie2_activator/blob/master/logo.png?raw=true)
 
